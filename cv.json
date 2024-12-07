@@ -1,35 +1,30 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
+    "name": "Louan Robert",
+    "label": "Master's Student in Computer Science with a Focus on Cybersecurity at the University of Liège",
     "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
+    "email": "louan.robert@student.uliege.be",
+    "phone": "",
     "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
-    "theme": "default",
+    "summary": "Master's student in Computer Science at ULiège with strong technical skills in mathematics, problem solving, computer security & networking. Experienced in APIs and project management, with a passion for innovative technologies. Looking for opportunities to apply expertise in real-world projects.",
+    "theme": "system",
     "location": {
       "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "postalCode": "",
+      "city": "Liège",
+      "countryCode": "BE",
+      "region": "Belgium"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
-      },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "louan-robert",
+        "url": "https://www.linkedin.com/in/louan-robert/"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "louanrobert",
+        "url": "https://github.com/louanrobert"
       }
     ]
   },
@@ -106,56 +101,49 @@
   ],
   "volunteer": [
     {
-      "organization": "Local Coding Club",
+      "organization": "CSS - ULiège Computer Science Students ASBL (NPO)",
       "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
+      "url": "https://css.montefiore.uliege.be/",
+      "startDate": "2022-08-01",
+      "endDate": "2025-08-01",
+      "summary": "CSS (Computer Science Students) is the official student association for Computer Science students at the University of Liège. We offer a variety of services, including mentorship programs, a dedicated student lounge, social events, technical training, and outreach activities to promote our field. Our mission is to support and connect students while fostering a vibrant community within the faculty.",
+      "roles": [
+        {
+          "role": "Treasurer",
+          "startDate": "2024-06-01",
+          "endDate": "2025-06-01",
+          "highlights": [
+            "Odoo implementation for financial & management aspects"
+          ]
+        },
+        {
+          "role": "Head of comission",
+          "startDate": "2023-06-01",
+          "endDate": "2024-06-01",
+          "highlights": [
+            "Head of entertainment commission (2023)",
+            "Head of technical commission (2024)"
+          ]
+        }
       ]
     }
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
+      "institution": "University of Liège",
+      "url": "https://uliege.be",
       "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
-      "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
-      ]
-    },
-    {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
       "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
+      "startDate": "2021-09-01",
+      "endDate": "2026-09-01"
     },
     {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
-      ]
+      "institution": "Royal Athenaeum of Chênée (Athénée Royal de Chênée)",
+      "url": "https://www.archenee.be/",
+      "area": "Certificate of Higher Secondary Education with a focus on Sciences",
+      "studyType": "Secondary",
+      "startDate": "2015-09-01",
+      "endDate": "2021-06-01"
     }
   ],
   "certificates": [
@@ -166,199 +154,66 @@
       "url": "https://onlineuniversity.com/certificates/fullstack"
     }
   ],
-  "skills": [
-    {
-      "name": "Figma",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
-    },
-    {
-      "name": "Gitlab",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
-      "name": "HTML",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    }
-  ],
+  "skills": {
+    "languages": [
+      { "name": "JavaScript", "level": "Advanced", "keywords": ["ES6", "DOM"] },
+      { "name": "Python", "level": "Advanced", "keywords": ["Django"] },
+      { "name": "Java", "level": "Advanced", "keywords": ["Spring"] },
+      { "name": "SQL", "level": "Beginner", "keywords": ["MySQL", "PostgreSQL"] },
+      { "name": "C"},
+      { "name": "C++"},
+      { "name": "R"}
+    ],
+    "frontend": [
+      { "name": "Svelte", "level": "Intermediate", "keywords": ["Reactive Framework"] },
+      { "name": "Tailwind", "level": "Intermediate", "keywords": ["CSS Framework"] }
+    ],
+    "backend": [
+      { "name": "Spring", "level": "Intermediate", "keywords": ["Java Backend"] },
+      { "name": "SpringSecurity", "level": "Intermediate", "keywords": ["Authentication"] }
+    ],
+    "tools": [
+      { "name": "Git", "level": "Advanced", "keywords": ["Version Control"] },
+      { "name": "GitHub", "level": "Advanced", "keywords": ["Collaboration"] },
+      { "name": "GitLab", "level": "Intermediate", "keywords": ["CI/CD"] },
+      { "name": "Jira", "level": "Intermediate", "keywords": ["Design"] },
+      { "name": "Docker"},
+      { "name": "Proxmox"},
+      { "name": "Openshift"}
+    ],
+    "other": [
+      { "name": "MySQL", "level": "Intermediate", "keywords": ["Database"] },
+      { "name": "PostgresSQL", "level": "Beginner", "keywords": ["Cross-Platform"] },
+      { "name": "Arduino"},
+      { "name": "Zigbee"},
+      { "name": "Home Assistant"}
+    ]
+  },
   "languages": [
     {
-      "language": "English",
+      "language": "French",
       "fluency": "Native speaker"
     },
     {
-      "language": "Spanish",
-      "fluency": "Intermediate"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Technology",
-      "keywords": [
-        "AI",
-        "Blockchain"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jane Smith",
-      "reference": "Reference…"
+      "language": "English",
+      "fluency": "Advanced"
     }
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
+      "name": "MDTools",
       "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
+      "description": "A PIM (Product Information Management) system for managing product data and cross-referencing information.",
       "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
+        "Built with Spring, Svelte and PostgreSQL.",
+        "RESTful API for CRUD operations.",
+        "Implemented user authentication and authorization with Spring Security.",
+        "Designed a responsive user interface with Tailwind CSS.",
+        "Deployed on OpenShift.",
+        "Done as part of a 10 ECTS major university team project. Use of SCRUM methodology with Jira."
       ],
       "url": "https://johndoe.dev",
       "github": "https://github.com"
-    },
-    {
-      "name": "Weather App",
-      "isActive": true,
-      "description": "A web application that provides weather information for any location.",
-      "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
-      ],
-      "url": "https://weatherapp.com"
-    },
-    {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
-      "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
-      ],
-      "url": "https://ecommerce.com"
     }
   ]
 }

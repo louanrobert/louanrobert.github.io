@@ -58,14 +58,32 @@ interface Volunteer {
   startDate: DateStr;
   endDate: DateStr;
   summary: string;
-  highlights: Highlight;
+  roles: Roles;
 }
 
-interface Skills {
+type Roles = Array<Role>;
+
+interface Role {
+  role: string;
+  highlights: Highlight;
+  startDate: DateStr;
+  endDate: DateStr;
+}
+
+interface Skill {
   name: string;
   level: string;
   keywords: Array<string>;
 }
+
+interface CategorizedSkills {
+  languages: Array<Skill>;
+  backend: Array<Skill>;
+  frontend: Array<Skill>;
+  tools: Array<Skill>;
+  other: Array<Skill>;
+}
+
 
 interface Awards {
   title: string;
