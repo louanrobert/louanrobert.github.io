@@ -30,29 +30,35 @@
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
+      "name": "BEEGO",
+      "position": "Digital Expert",
+      "location_type": "On-site",
+      "location": "Liège, Belgium",
+      "url": "https://beego.be",
+      "startDate": "2023-10-01",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "summary": "Provided digital assistance at 'digipoints' for ING and bPost, helping customers with the installation and usage of applications such as Itsme and the ING App.",
       "highlights": [
-        "Improved website performance by optimizing code"
+        "Exceptional customer communication",
+        "Strong patience and pedagogical skills",
+        "Commitment to professionalism"
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Assisting customers in navigating and utilizing digital applications",
+        "Offering clear and tailored guidance to improve customer digital literacy",
+        "Ensuring high levels of customer satisfaction through quality support",
+        "Independently managing the operations of the digipoint"
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Consistently high customer satisfaction ratings",
+        "Enhanced understanding of banking processes and applications",
+        "Expanded knowledge of digital tools and solutions"
       ],
       "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
+        "Customer service",
+        "Digital literacy",
+        "Self-management",
+        "Slack"
       ]
     }
   ],
@@ -62,7 +68,7 @@
       "position": "Volunteer",
       "url": "https://css.montefiore.uliege.be/",
       "startDate": "2022-08-01",
-      "endDate": "2025-08-01",
+      "endDate": null,
       "summary": "CSS (Computer Science Students) is the official student association for Computer Science students at the University of Liège. We offer a variety of services, including mentorship programs, a dedicated student lounge, social events, technical training, and outreach activities to promote our field. Our mission is to support and connect students while fostering a vibrant community within the faculty.",
       "roles": [
         {
@@ -89,7 +95,7 @@
     {
       "institution": "University of Liège",
       "url": "https://uliege.be",
-      "area": "Computer Science",
+      "area": "Computer Science with a focus on Computer Security",
       "studyType": "Master",
       "startDate": "2021-09-01",
       "endDate": "2026-09-01"
@@ -116,34 +122,59 @@
       { "name": "JavaScript", "level": "Advanced", "keywords": ["ES6", "DOM"] },
       { "name": "Python", "level": "Advanced", "keywords": ["Django"] },
       { "name": "Java", "level": "Advanced", "keywords": ["Spring"] },
-      { "name": "SQL", "level": "Beginner", "keywords": ["MySQL", "PostgreSQL"] },
-      { "name": "C"},
-      { "name": "C++"},
-      { "name": "R"}
+      {
+        "name": "SQL",
+        "level": "Beginner",
+        "keywords": ["MySQL", "PostgreSQL"]
+      },
+      { "name": "C" },
+      { "name": "C++" },
+      { "name": "R" }
     ],
     "frontend": [
-      { "name": "Svelte", "level": "Intermediate", "keywords": ["Reactive Framework"] },
-      { "name": "Tailwind", "level": "Intermediate", "keywords": ["CSS Framework"] }
+      {
+        "name": "Svelte",
+        "level": "Intermediate",
+        "keywords": ["Reactive Framework"]
+      },
+      {
+        "name": "Tailwind",
+        "level": "Intermediate",
+        "keywords": ["CSS Framework"]
+      }
     ],
     "backend": [
-      { "name": "Spring", "level": "Intermediate", "keywords": ["Java Backend"] },
-      { "name": "SpringSecurity", "level": "Intermediate", "keywords": ["Authentication"] }
+      {
+        "name": "Spring",
+        "level": "Intermediate",
+        "keywords": ["Java Backend"]
+      },
+      {
+        "name": "SpringSecurity",
+        "level": "Intermediate",
+        "keywords": ["Authentication"]
+      }
     ],
     "tools": [
       { "name": "Git", "level": "Advanced", "keywords": ["Version Control"] },
       { "name": "GitHub", "level": "Advanced", "keywords": ["Collaboration"] },
-      { "name": "GitLab", "level": "Intermediate", "keywords": ["CI/CD"] },
+      { "name": "Gitlab", "level": "Intermediate", "keywords": ["CI/CD"] },
       { "name": "Jira", "level": "Intermediate", "keywords": ["Design"] },
-      { "name": "Docker"},
-      { "name": "Proxmox"},
-      { "name": "Openshift"}
+      { "name": "Slack"},
+      { "name": "Docker" },
+      { "name": "Proxmox" },
+      { "name": "Openshift" }
     ],
     "other": [
       { "name": "MySQL", "level": "Intermediate", "keywords": ["Database"] },
-      { "name": "PostgresSQL", "level": "Beginner", "keywords": ["Cross-Platform"] },
-      { "name": "Arduino"},
-      { "name": "Zigbee"},
-      { "name": "Home Assistant"}
+      {
+        "name": "PostgresSQL",
+        "level": "Beginner",
+        "keywords": ["Cross-Platform"]
+      },
+      { "name": "Arduino" },
+      { "name": "Zigbee" },
+      { "name": "Home Assistant" }
     ]
   },
   "languages": [
