@@ -111,10 +111,10 @@
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "name": "Introduction to Computer Security",
+      "date": "2024-12-11",
+      "issuer": "Cisco Networking Academy",
+      "url": "https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity"
     }
   ],
   "skills": {
@@ -190,7 +190,7 @@
   "projects": [
     {
       "name": "MDTools",
-      "isActive": false,
+      "isActive": true,
       "description": "A PIM (Product Information Management) system for managing product data and cross-referencing information.",
       "highlights": [
         "Built with Spring, Svelte and PostgreSQL.",
@@ -200,8 +200,8 @@
         "Deployed on OpenShift.",
         "Done as part of a 10 ECTS major university team project. Use of SCRUM methodology with Jira."
       ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
+      "url": "http://mdtools-frontend.apps.speam.montefiore.uliege.be/",
+      "github": "https://gitlab.uliege.be/SPEAM/2024-2025/team3/mdtools"
     }
   ]
 }
